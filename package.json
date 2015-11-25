@@ -1,0 +1,30 @@
+{
+  "name": "preethi",
+  "version": "1.0.0",
+  "description": "preethi's first react application",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iam-peekay/react-notetaker.git"
+  },
+  "author": "preethi kasireddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iam-peekay/react-notetaker/issues"
+  },
+  "homepage": "https://github.com/iam-peekay/react-notetaker#readme",
+  "dependencies": {
+    "babel-core": "^6.2.1",
+    "babel-preset-react": "^6.1.18",
+    "react": "^0.14.3"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.2.0",
+    "node-libs-browser": "^0.5.3",
+    "webpack": "^1.12.9"
+  }
+}
